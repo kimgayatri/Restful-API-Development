@@ -17,6 +17,15 @@
 ## Base URL:
 http://localhost:3000/api/books
 
+# OUTPUTS
+![Image](https://github.com/user-attachments/assets/4d889375-3bdf-486c-b8eb-e586adfaf9e1)
+
+
+![Image](https://github.com/user-attachments/assets/43de8c6a-37f5-4b67-825e-c820d16a77a2)
+
+
+![Image](https://github.com/user-attachments/assets/4b7411de-c400-4aec-9e1d-2128631d385c)
+
 ## Endpoints:
 
 | Method | Endpoint      | Description              |
@@ -42,9 +51,5 @@ Response:
   }
 ]
 
-# OUTPUT
-![Image](https://github.com/user-attachments/assets/4d889375-3bdf-486c-b8eb-e586adfaf9e1)
 
-
-![Image](https://github.com/user-attachments/assets/43de8c6a-37f5-4b67-825e-c820d16a77a2)
 
